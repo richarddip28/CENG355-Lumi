@@ -1,7 +1,13 @@
 Group Project Proposal - Richard
 
+Week 1
+
 App Trimming - Richard
 Firebase to Lumi - RJ
 Raspberry Pi Python Code - Raymond
 
-test
+Week 2 
+
+Database - RJ
+Application - Richard
+Python/Web - Raymond
